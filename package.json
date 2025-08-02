@@ -5,12 +5,14 @@
   "license": "ISC",
   "author": "Nishant",
   "type": "commonjs",
-  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "modules": "^0.4.0"
+    "modules": "^0.4.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "reactdom": "^2.0.0"
   },
   "devDependencies": {
     "parcel": "^2.15.4"
